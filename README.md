@@ -291,17 +291,17 @@
     <td align="center">
       <img src="images/market1.jpg" alt="상점 화면 1" width="300">
       <br>
-      상점 화면 1: 아이템 목록
+      -
     </td>
     <td align="center">
       <img src="images/market2.jpg" alt="상점 화면 2" width="300">
       <br>
-      상점 화면 2: 아이템 구매
+      -
     </td>
     <td align="center">
       <img src="images/market3.jpg" alt="상점 화면 3" width="300">
       <br>
-      상점 화면 3: 구매 완료
+      -
     </td>
   </tr>
 </table>
@@ -320,7 +320,7 @@
       <i>Backend</i>
     </td>
     <td align="center">
-      <img src="./images/yerim.jpg" width="200px" height="200px" alt="선예림"/><br />
+      <img src="./images/yerim.JPG" width="200px" height="200px" alt="선예림"/><br />
       <b>선예림</b><br />
       <i>Backend</i>
     </td>
@@ -340,7 +340,7 @@
       <i>Frontend</i>
     </td>
     <td align="center">
-      <img src="./images/sanghyeon.jpg" width="200px" height="200px" alt="이상현"/><br />
+      <img src="./images/sanghyeon.JPG" width="200px" height="200px" alt="이상현"/><br />
       <b>이상현</b><br />
       <i>Frontend</i>
     </td>
