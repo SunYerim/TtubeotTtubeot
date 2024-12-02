@@ -10,7 +10,7 @@
   
   <br />
   
-  <img src="" width="50%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" alt="Team Image"/>
+  <img src="images/TtubeotMain.jpg" width="50%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" alt="Team Image"/>
   
   <br />
   <br />
@@ -151,49 +151,196 @@
 
 <img src="images/erd.png" width="950"> <br>
 
-### 🖋️주요 기능 화면
+### 🖋️ 주요 기능 화면
 
 ---
 
-- **서비스 화면**
-  <br/>
-  <img src="images/service.gif" alt="service"/> <br><br>
+#### **메인 화면**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/main.jpg" alt="메인 화면" width="300">
+      <br>
+      -
+    </td>
+  </tr>
+</table>
+
+---
+
+#### **모험**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/adventure1.jpg" alt="모험 화면 1" width="300">
+      <br>
+      -
+    </td>
+    <td align="center">
+      <img src="images/adventure2.jpg" alt="모험 화면 2" width="300">
+      <br>
+      -
+    </td>
+  </tr>
+</table>
+
+---
+
+#### **보물 찾기**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/ar1.jpg" alt="보물 찾기 화면 1" width="300">
+      <br>
+      -
+    </td>
+    <td align="center">
+      <img src="images/ar2.jpg" alt="보물 찾기 화면 2" width="300">
+      <br>
+      -
+    </td>
+    <td align="center">
+      <img src="images/ar3.jpg" alt="보물 찾기 화면 3" width="300">
+      <br>
+      -
+    </td>
+  </tr>
+</table>
+
+---
+
+#### **모험 발자취**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/foot1.jpg" alt="걸음수 측정 화면 1" width="300">
+      <br>
+      -
+    </td>
+    <td align="center">
+      <img src="images/foot2.jpg" alt="걸음수 측정 화면 2" width="300">
+      <br>
+      -
+    </td>
+    <td align="center">
+      <img src="images/foot3.jpg" alt="걸음수 측정 화면 3" width="300">
+      <br>
+      -
+    </td>
+  </tr>
+</table>
+
+---
+
+#### **친구 만나기**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/friend1.jpg" alt="친구 만나기 화면 1" width="300">
+      <br>
+      -
+    </td>
+    <td align="center">
+      <img src="images/friend2.jpg" alt="친구 만나기 화면 2" width="300">
+      <br>
+      -
+    </td>
+    <td align="center">
+      <img src="images/friend3.jpg" alt="친구 만나기 화면 3" width="300">
+      <br>
+      -
+    </td>
+  </tr>
+</table>
+
+---
+
+#### **뚜벗 도감**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/dogam1.jpg" alt="모험 발자국 화면 1" width="300">
+      <br>
+      -
+    </td>
+    <td align="center">
+      <img src="images/dogam2.jpg" alt="모험 발자국 화면 2" width="300">
+      <br>
+      -
+    </td>
+    <td align="center">
+      <img src="images/dogam3.jpg" alt="모험 발자국 화면 3" width="300">
+      <br>
+      -
+    </td>
+  </tr>
+</table>
+
+---
+
+#### **상점**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/market1.jpg" alt="상점 화면 1" width="300">
+      <br>
+      상점 화면 1: 아이템 목록
+    </td>
+    <td align="center">
+      <img src="images/market2.jpg" alt="상점 화면 2" width="300">
+      <br>
+      상점 화면 2: 아이템 구매
+    </td>
+    <td align="center">
+      <img src="images/market3.jpg" alt="상점 화면 3" width="300">
+      <br>
+      상점 화면 3: 구매 완료
+    </td>
+  </tr>
+</table>
+
 
 <div id="7"></div>
 
----
 
 ### 👥 팀원 소개
 
 <table>
   <tr>
     <td align="center">
-      <img src="./images/.jpg" width="200px" height="200px" style="border-radius:50%;" alt="박연후"/><br />
+      <img src="./images/yeonhoo.jpg" width="200px" height="200px" alt="박연후"/><br />
       <b>박연후</b><br />
       <i>Backend</i>
     </td>
     <td align="center">
-      <img src="./images/.png" width="200px" height="200px" style="border-radius:50%;" alt="선예림"/><br />
+      <img src="./images/yerim.jpg" width="200px" height="200px" alt="선예림"/><br />
       <b>선예림</b><br />
       <i>Backend</i>
     </td>
     <td align="center">
-      <img src="./images/.jpg" width="200px" height="200px" style="border-radius:50%;" alt="최지우"/><br />
-      <b>최지우</b><br />
-      <i>Frontend</i>
-    </td>
-    <td align="center">
-      <img src="./images/.jpg" width="200px" height="200px" style="border-radius:50%;" alt="차민주"/><br />
-      <b>차민주</b><br />
-      <i>Frontend</i>
-    </td>
-    <td align="center">
-      <img src="./images/.jpg" width="200px" height="200px" style="border-radius:50%;" alt="김상범"/><br />
+      <img src="./images/sangbeom.jpg" width="200px" height="200px" alt="김상범"/><br />
       <b>김상범</b><br />
       <i>Infra, Backend</i>
     </td>
     <td align="center">
-      <img src="./images/.png" width="200px" height="200px" style="border-radius:50%;" alt="이상현"/><br />
+      <img src="./images/jiwoo.jpg" width="200px" height="200px" alt="최지우"/><br />
+      <b>최지우</b><br />
+      <i>Frontend</i>
+    </td>
+    <td align="center">
+      <img src="./images/minju.jpg" width="200px" height="200px" alt="차민주"/><br />
+      <b>차민주</b><br />
+      <i>Frontend</i>
+    </td>
+    <td align="center">
+      <img src="./images/sanghyeon.jpg" width="200px" height="200px" alt="이상현"/><br />
       <b>이상현</b><br />
       <i>Frontend</i>
     </td>
