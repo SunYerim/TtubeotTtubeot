@@ -322,7 +322,7 @@
     <td align="center">
       <img src="./images/yerim.JPG" width="200px" height="200px" alt="선예림"/><br />
       <b>선예림</b><br />
-      <i>Backend</i>
+      <i>Backend, Frontend</i>
     </td>
     <td align="center">
       <img src="./images/sangbeom.jpg" width="200px" height="200px" alt="김상범"/><br />
