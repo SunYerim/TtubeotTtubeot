@@ -10,7 +10,22 @@
   
   <br />
   
-  <img src="images/TtubeotMain.jpg" width="50%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" alt="Team Image"/>
+  <!-- <img src="images/main.jpg" width="50%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" alt="Team Image"/> -->
+
+  <table>
+  <tr>
+    <td align="center">
+      <img src="images/main.jpg" alt="모험 화면 1" width="300">
+      <br>
+      -
+    </td>
+    <td align="center">
+      <img src="images/adventure2.jpg" alt="모험 화면 2" width="300">
+      <br>
+      -
+    </td>
+  </tr>
+</table>
   
   <br />
   <br />
@@ -166,12 +181,12 @@
 
 ---
 
-#### **메인 화면**
+#### **로그인 및 회원가입 화면**
 
 <table>
   <tr>
     <td align="center">
-      <img src="images/main.jpg" alt="메인 화면" width="300">
+      <img src="images/TtubeotMain.jpg" alt="메인 화면" width="300">
       <br>
       -
     </td>
