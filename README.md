@@ -12,17 +12,13 @@
   
   <!-- <img src="images/main.jpg" width="50%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" alt="Team Image"/> -->
 
-  <table>
+  <table border="0" style="border-collapse: collapse;">
   <tr>
     <td align="center">
       <img src="images/main.jpg" alt="모험 화면 1" width="300">
-      <br>
-      -
     </td>
     <td align="center">
       <img src="images/adventure2.jpg" alt="모험 화면 2" width="300">
-      <br>
-      -
     </td>
   </tr>
 </table>
